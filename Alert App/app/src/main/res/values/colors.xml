@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSuccess">#28a745</color>
+    <color name="colorDisarmed">#27ae60</color>
+    <color name="colorBack">#dfe6e9</color>
+    <color name="colorItemBack">#ecf0f1</color>
+    <color name="colorBorder">#95a5a6</color>
+    <color name="colorArm">#d35400</color>
+    <color name="colorAway">#d63031</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLayout">#dfe6e9</color>
+
+</resources>

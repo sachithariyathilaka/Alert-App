@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Alert App</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_number">Change Number</string>
+    <string name="menu_pin">Change Pin</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="disarmed">Disarmed</string>
+    <string name="system">System</string>
+    <string name="heading">RN Innovations</string>
+    <string name="disarm">Disarm</string>
+    <string name="arm">Arm(Stay)</string>
+    <string name="away">Arm(Away)</string>
+    <string name="sensors">Sensors</string>
+    <string name="frontDoor">Front Door Open</string>
+    <string name="backDoor">Back Door Closed</string>
+
+    <!--PIN-->
+    <string name="login">Log in</string>
+    <string name="enter_pin">Enter Your Pin</string>
+    <string name="enter_pin_again">Enter New Pin Again</string>
+    <string name="pin_length_less_than_6">Pin you entered has less than 4 characters</string>
+    <string name="first_time_pin">A security PIN is not registered</string>
+    <string name="register_pin">Register PIN</string>
+    <string name="pins_not_matching">Pins you entered are not matching</string>
+    <string name="pin_invalid">PIN is invalid</string>
+
+    <!--SMS send number-->
+    <string name="register_sms_send_number">Register SMS send number</string>
+    <string name="sms_send_number_not_defined">You have not set up the SMS send number</string>
+    <string name="save">Save</string>
+    <string name="number_invalid">Number is invalid</string>
+
+    <string name="website"><u>www.rn-innovations.com</u></string>
+</resources>
