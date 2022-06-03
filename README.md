@@ -1,2 +1,6 @@
 # Alert App
-This is a android application for a alert system.
+Android application for a alert system
+
+# Technologies
+
+Java, Android Studio
